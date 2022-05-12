@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/KaKaoAPI-BreadSearch/static/js/main.844386dc.js",
+    "static/js/787.5aed23da.chunk.js": "/KaKaoAPI-BreadSearch/static/js/787.5aed23da.chunk.js",
+    "static/media/backBread.png": "/KaKaoAPI-BreadSearch/static/media/backBread.4a9d91dbb210d4506950.png",
+    "static/media/resultBread.png": "/KaKaoAPI-BreadSearch/static/media/resultBread.e8a15de5e14358901d97.png",
+    "static/media/choiceBread.png": "/KaKaoAPI-BreadSearch/static/media/choiceBread.244a6b5e7fa6678fc661.png",
+    "static/media/noChoiceBread.png": "/KaKaoAPI-BreadSearch/static/media/noChoiceBread.5fece1ee3117dc603b63.png",
+    "index.html": "/KaKaoAPI-BreadSearch/index.html",
+    "main.844386dc.js.map": "/KaKaoAPI-BreadSearch/static/js/main.844386dc.js.map",
+    "787.5aed23da.chunk.js.map": "/KaKaoAPI-BreadSearch/static/js/787.5aed23da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.844386dc.js"
+  ]
+}
